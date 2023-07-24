@@ -15,7 +15,7 @@ import javax.ws.rs.core.Response;
 import org.eclipse.microprofile.openapi.annotations.parameters.RequestBody;
 
 @ApplicationScoped
-@Path("/lis/api/v2/settings/sections")
+@Path("")
 public class SetorResource {
 
   @Inject
