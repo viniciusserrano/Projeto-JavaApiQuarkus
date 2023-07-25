@@ -1,6 +1,6 @@
 package (pathDaAplicacao).repository.entity;
 
-import br.com.shift.lis.projetodesenvolvimento.repository.enums.StatusEnum;
+import(PathDaAplicacao).projetodesenvolvimento.repository.enums.StatusEnum;
 import java.math.BigDecimal;
 import javax.persistence.Column;
 import javax.persistence.Entity;
