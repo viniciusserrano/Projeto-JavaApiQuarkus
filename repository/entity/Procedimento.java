@@ -1,4 +1,4 @@
-package br.com.shift.lis.projetodesenvolvimento.repository.entity;
+package (pathDaAplicacao).repository.entity;
 
 import br.com.shift.lis.projetodesenvolvimento.repository.enums.StatusEnum;
 import java.math.BigDecimal;
