@@ -1,4 +1,4 @@
-package br.com.shift.lis.projetodesenvolvimento.repository.enums;
+package (PathDaAplicacao).projetodesenvolvimento.repository.enums;
 
 import java.util.Arrays;
 import lombok.AllArgsConstructor;
