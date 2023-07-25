@@ -1,6 +1,6 @@
-package br.com.shift.lis.projetodesenvolvimento.repository.dto;
+package (PathDaAplicacao).projetodesenvolvimento.repository.dto;
 
-import br.com.shift.lis.projetodesenvolvimento.repository.enums.StatusEnum;
+import (PathDaAplicacao).projetodesenvolvimento.repository.enums.StatusEnum;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
