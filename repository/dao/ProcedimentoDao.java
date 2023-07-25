@@ -1,6 +1,6 @@
-package br.com.shift.lis.projetodesenvolvimento.repository.dao;
+package (PathDaAplicacao).projetodesenvolvimento.repository.dao;
 
-import br.com.shift.lis.projetodesenvolvimento.repository.entity.Procedimento;
+import (PathDaAplicacao).projetodesenvolvimento.repository.entity.Procedimento;
 import io.quarkus.hibernate.orm.panache.PanacheRepositoryBase;
 import java.util.Objects;
 import java.util.Optional;
