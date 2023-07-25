@@ -1,4 +1,4 @@
-package (pathDaAplicacao).repository.entity;
+package (pathDaAplicacao).projetodesenvolvimento.repository.entity;
 
 import(PathDaAplicacao).projetodesenvolvimento.repository.enums.StatusEnum;
 import java.math.BigDecimal;
