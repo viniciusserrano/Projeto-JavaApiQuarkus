@@ -1,4 +1,4 @@
-package br.com.shift.lis.projetodesenvolvimento.repository.entity;
+package (PathDaAplicacao).projetodesenvolvimento.repository.entity;
 
 import br.com.shift.lis.projetodesenvolvimento.repository.enums.StatusEnum;
 import javax.persistence.Column;
